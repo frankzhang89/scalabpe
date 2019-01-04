@@ -943,5 +943,6 @@ __flow文件的命名建议用 消息名_消息号.flow 的格式__
 | uniqueId | 9 | 请求ID | string | 可变 |
 | spsId | 11 | SPS服务ID | string | 可变 |
 | httpType | 12 | 是否HTTPS | int | 8 |
+| logId | 13 | 日志id | string | 可变 |
 
 [返回](#toc)
