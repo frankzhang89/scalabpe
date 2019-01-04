@@ -43,7 +43,7 @@ object Xhead {
         add(6, "hostId", "int")
         add(7, "spId", "int")
         add(8, "endpointId", "string")
-        add(CODE_UNIQUE_ID, KEY_UNIQUE_ID, "string") // 9
+        add(CODE_UNIQUE_ID, KEY_UNIQUE_ID, "string") // 9 唯一请求标识符
         add(CODE_SPS_ID, KEY_SPS_ID, "string") // 11 
         add(CODE_HTTP_TYPE, KEY_HTTP_TYPE, "int") // 12
         add(13, "logId", "string")
